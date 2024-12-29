@@ -175,14 +175,14 @@ const ContentSection = () => {
                             Get unlimited access to Yoga Teacher Trainings, Yoga classes, Meditation and Pranayama, Yogic Wisdom and more.
                         </p>
                         <div className="flex space-x-4">
-                            <a href="#" className="bg-transparent text-gray-900 rounded-full px-4 py-2">
+                            <a  className="bg-transparent text-gray-900 rounded-full px-4 py-2">
                                 <img
                                     src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
                                     alt="App Store"
                                     className="h-10"
                                 />
                             </a>
-                            <a href="#" className="bg-transparent text-gray-900 rounded-full px-4 py-2">
+                            <a className="bg-transparent text-gray-900 rounded-full px-4 py-2">
                                 <img
                                     src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
                                     alt="Google Play Store"

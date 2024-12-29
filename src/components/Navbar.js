@@ -12,25 +12,25 @@ const Navbar = () => {
         {/* Menu Items */}
         <div className="hidden md:flex space-x-8">
           <a
-            href="#"
+            
             className="text-gray-700 hover:text-orange-500 font-medium transition"
           >
             Home
           </a>
           <a
-            href="#"
+            
             className="text-gray-700 hover:text-orange-500 font-medium transition"
           >
             Categories
           </a>
           <a
-            href="#"
+            
             className="text-gray-700 hover:text-orange-500 font-medium transition"
           >
             Notification
           </a>
           <a
-            href="#"
+            
             className="text-gray-700 hover:text-orange-500 font-medium transition"
           >
             AI Music

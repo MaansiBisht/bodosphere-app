@@ -14,14 +14,14 @@ const Footer = () => {
               Take classes online and practice anytime.
             </p>
             <div className="flex justify-center md:justify-start space-x-4">
-              <a href="#">
+              <a>
                 <img
                   src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
                   alt="App Store"
                   className="h-10"
                 />
               </a>
-              <a href="#">
+              <a >
                 <img
                   src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
                   alt="Google Play Store"
@@ -34,13 +34,13 @@ const Footer = () => {
           {/* Middle Section: Links */}
           <div className="text-center my-6 md:my-0">
             <a
-              href="#"
+            
               className="block text-gray-700 hover:text-orange-500 font-medium mb-2"
             >
               FAQ
             </a>
             <a
-              href="#"
+   
               className="block text-gray-700 hover:text-orange-500 font-medium"
             >
               Contact Us
@@ -54,7 +54,7 @@ const Footer = () => {
             </h2>
             <div className="flex justify-center md:justify-end space-x-4">
               <a
-                href="#"
+            
                 className="text-gray-500 hover:text-orange-500 transition"
                 aria-label="Facebook"
               >
@@ -68,7 +68,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a
-                href="#"
+
                 className="text-gray-500 hover:text-orange-500 transition"
                 aria-label="Instagram"
               >
